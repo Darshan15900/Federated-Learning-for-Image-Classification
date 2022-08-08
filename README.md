@@ -1,0 +1,2 @@
+# Federated-Learning-for-Image-Classification
+The sensors, computing and communication technologies used in modern devices are getting more and more sophisticated in terms of efficiency and effectiveness. Unlike traditional methods federated learning involves all the data storage and processing activities on the computer and eliminates the need for cloud storage services. By separating machine learning from mobile cloud storage services, local models on mobile devices can be used to make predictions by transferring model training to the cloud.
